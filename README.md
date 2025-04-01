@@ -173,7 +173,7 @@ The package `toilet` cannot be installed yet on macOS. But TBomb does still work
 
 **Q:** Is there any TBomb Website/App ?
 
-**A:** There is no official website/app yet.The only official releases of TBomb are published in [Github](https://github.com/TheSpeedX/TBomb) and [PyPi](https://pypi.org/project/tbomb)
+**A:** There is no official website/app yet.The only official releases of TBomb are published in [Github](Ritik_xyz) and [PyPi](Ritik_Xyz)
 ##
 **Q:** Poor Internet Connection Detected:
 
@@ -227,7 +227,7 @@ The package `toilet` cannot be installed yet on macOS. But TBomb does still work
 ##
 ### Support
 
-For Queries: [Telegram Group](https://t.me/TBombChat)  
+For Queries: [Telegram Group](https://t.me/+bjGB4nTjk_tmYzI1)  
 Contributions, issues, and feature requests are welcome!  
 Give a ★ if you like this project!
 
